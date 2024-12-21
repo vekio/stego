@@ -1,0 +1,6 @@
+# direvn
+.direnv
+.envrc
+
+# Go
+bin/
